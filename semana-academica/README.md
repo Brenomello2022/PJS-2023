@@ -20,3 +20,48 @@ A Semana Acadêmica é um evento anual que reúne estudantes, profissionais e pe
 
 </div>
 
+------------------------------------------------------
+
+<h1>Quarta-Feira.<h1>
+
+<div align=center>
+
+<img height="200em" src="./img/quarta.png">
+
+</div>
+
+------------------------------------------------------
+
+<h1>Quinta-Feira.<h1>
+
+<div align=center>
+
+<img height="200em" src="./img/quinta.png">
+
+</div>
+
+------------------------------------------------------
+
+<h1>Sexta-Feira.<h1>
+
+<div align=center>
+
+<img height="200em" src="./img/sexta.png">
+
+</div>
+
+------------------------------------------------------
+
+<h1>Patrocinadores e Apoiadores.<h1>
+
+<div align=center>
+
+<img height="200em" src="./img/patrocionadores-e-apoiadores.png">
+
+</div>
+
+------------------------------------------------------
+
+Inscreva-se! Link da Semana Academica de Sistemas de Informação 2023 abaixo.
+https://quemfaz.materdei.edu.br/sasi
+
