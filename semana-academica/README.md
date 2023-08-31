@@ -56,7 +56,7 @@ A Semana Acadêmica é um evento anual que reúne estudantes, profissionais e pe
 
 <div align=center>
 
-<img height="200em" src="./img/patrocionadores-e-apoiadores.png">
+<img height="200em" src="./img/patrocinadores-e-apoiadores.png">
 
 </div>
 
