@@ -2,7 +2,7 @@ A Semana Acadêmica é um evento anual que reúne estudantes, profissionais e pe
 
 ------------------------------------------------------
 
-<h1>Segunda-Feira.<h1>
+<h1>Segunda-Feira: (11-09-2023) Inclusão Tech: Conectando diversidade.<h1>
 
 <div align=center>
 
@@ -12,7 +12,7 @@ A Semana Acadêmica é um evento anual que reúne estudantes, profissionais e pe
 
 ------------------------------------------------------
 
-<h1>Terça-Feira.<h1>
+<h1>Terça-Feira: (12-09-2023) Jornada Tech: Carreiras na tecnologia.<h1>
 
 <div align=center>
 
@@ -22,7 +22,7 @@ A Semana Acadêmica é um evento anual que reúne estudantes, profissionais e pe
 
 ------------------------------------------------------
 
-<h1>Quarta-Feira.<h1>
+<h1>Quarta-Feira: (13-09-2023) Dia do Programador.<h1>
 
 <div align=center>
 
@@ -32,7 +32,7 @@ A Semana Acadêmica é um evento anual que reúne estudantes, profissionais e pe
 
 ------------------------------------------------------
 
-<h1>Quinta-Feira.<h1>
+<h1>Quinta-Feira (14-09-2023) Além do horizonte existe uma I.A.<h1>
 
 <div align=center>
 
@@ -42,7 +42,7 @@ A Semana Acadêmica é um evento anual que reúne estudantes, profissionais e pe
 
 ------------------------------------------------------
 
-<h1>Sexta-Feira.<h1>
+<h1>Sexta-Feira (15-09-2023) MaterGame.<h1>
 
 <div align=center>
 
