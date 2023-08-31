@@ -62,7 +62,7 @@ A Semana Acadêmica é um evento anual que reúne estudantes, profissionais e pe
 
 ------------------------------------------------------
 
-Inscreva-se! Link da Semana Academica de Sistemas de Informação 2023.
+Inscreva-se! Link para o site da Semana Academica de Sistemas de Informação 2023.
 
 https://quemfaz.materdei.edu.br/sasi
 
