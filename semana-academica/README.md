@@ -12,7 +12,7 @@ A Semana Acadêmica é um evento anual que reúne estudantes, profissionais e pe
 
 ------------------------------------------------------
 
-<h1>Terça-Feira: (12-09-2023) Jornada Tech: Carreiras na tecnologia<h1>
+<h1>Terça-Feira: (12-09-2023) Jornada Tech: Carreiras na tecnologia.<h1>
 
 <div align=center>
 
